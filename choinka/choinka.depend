@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523101154 source:c:\users\majon\documents\choinka\main.cpp
+	<iostream>
+	<windows.h>
+
