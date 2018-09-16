@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537027291 source:c:\users\majon\documents\liczenie znaków v.5\main.cpp
+	<iostream>
+	<fstream>
+
